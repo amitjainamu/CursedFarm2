@@ -1,0 +1,18 @@
+                                                                 The Butcher's Horror Maze
+.Create forms for the entry page.
+.Create database to store players and gameState.
+.Create maze.
+.Create puzzles.
+.Create gates at random position.
+.Create 2-3 maze.
+.Download images from google for game chareters.
+.Task for players
+.Creating gate in the centre of the maze.
+.Make sure home page is displaying the welcome message. 
+.Scale down sprite.
+.Spritename.scale=0.2.
+.Create maze.
+.Give position of sprites.
+.Give standup position.
+
+
